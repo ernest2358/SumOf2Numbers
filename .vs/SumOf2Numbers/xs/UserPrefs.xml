@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A3C19D9D-04B7-4872-A2E8-85159B219CBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SumOf2Numbers/Program.cs">
+    <Files>
+      <File FileName="SumOf2Numbers/Program.cs" Line="9" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SumOf2Numbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/bin/Debug/netcoreapp2.2/SumOf2Numbers.deps.json
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/bin/Debug/netcoreapp2.2/SumOf2Numbers.runtimeconfig.json
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/bin/Debug/netcoreapp2.2/SumOf2Numbers.runtimeconfig.dev.json
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/bin/Debug/netcoreapp2.2/SumOf2Numbers.dll
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/bin/Debug/netcoreapp2.2/SumOf2Numbers.pdb
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.csprojAssemblyReference.cache
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.csproj.CoreCompileInputs.cache
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.AssemblyInfoInputs.cache
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.AssemblyInfo.cs
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.dll
+/Users/ernestbell/Desktop/CSNet/SumOf2Numbers/SumOf2Numbers/obj/Debug/netcoreapp2.2/SumOf2Numbers.pdb
